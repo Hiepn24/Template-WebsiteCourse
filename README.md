@@ -2,11 +2,11 @@
 Frontend using Html, Css, JavaScript, Bootstrap 5
 
 **VIEW HOME**
-![image](https://github.com/Hiepn24/Template-WebsiteCourse/assets/174914516/3dff859e-4a55-4adb-9da3-2eaa15d37580)
+![image](https://github.com/Hiepn24/Template-WebsiteCourse/assets/174914516/8842a683-fc1e-4902-b480-ed1383ad2120)
 
 
 **VIEW COURSE**
-![image](https://github.com/Hiepn24/Template-WebsiteCourse/assets/174914516/8842a683-fc1e-4902-b480-ed1383ad2120)
+![image](https://github.com/Hiepn24/Template-WebsiteCourse/assets/174914516/3dff859e-4a55-4adb-9da3-2eaa15d37580)
 
 
 **VIEW TEACHER**
@@ -18,4 +18,5 @@ Frontend using Html, Css, JavaScript, Bootstrap 5
 
 
 **VIEW CONTACT**
-![Uploading image.png…]()
+![image](https://github.com/Hiepn24/Template-WebsiteCourse/assets/174914516/5a9237d8-35ee-46b9-8e43-c8003088e051)
+
