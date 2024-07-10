@@ -1,0 +1,59 @@
+body {
+    color: #213e78;
+}
+
+.content {
+    background-image: url("../img/bg-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.navbar button p {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.card-img {
+    position: relative;
+    display: block;
+}
+
+.card-img img {
+    display: block;
+}
+
+.card-img .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.7); /* Màu trắng với độ trong suốt */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.card-img:hover .overlay {
+    opacity: 1;
+}
+
+/* Hiệu ứng, kết hợp với JS */
+.section {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: opacity 1.2s ease-out, transform 1.2s ease-out;
+}
+
+.section.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.hidden {
+    opacity: 0;
+    transform: translateY(50px);
+}
